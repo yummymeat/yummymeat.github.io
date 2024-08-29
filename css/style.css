@@ -8402,7 +8402,7 @@ h1, h2, h3, h4, h5,
     content: '';
     opacity: .1;
     width: 50%;
-    background: #3e64ff; }
+    background: darkviolet; }
   .hero-wrap .text {
     width: 100%; }
 
@@ -8481,7 +8481,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #edf0ff;
+    background: darkviolet;
     z-index: -1;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
